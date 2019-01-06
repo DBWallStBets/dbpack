@@ -1,0 +1,13 @@
+Package: dbpack
+Title: What the Package Does (one line, title case)
+Version: 0.0.0.9000
+Authors@R: Dan Barrett <barrettd@bu.edu>
+Description: What the package does (one paragraph).
+Depends: R (>= 3.5.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
